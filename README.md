@@ -21,6 +21,7 @@
   <a href = "mailto:lsena.web@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dami%C3%A3o-lucas-alencar-de-sena-974a6416b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/lsena-dev/lsena-dev/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/lsena-dev/lsena-dev/blob/output/github-contribution-grid-snake2.svg)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=lsena-dev&repo=lsena-dev&theme=react)](https://github.com/lsena-dev/lsena-dev)
  
 </div>
